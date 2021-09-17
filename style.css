@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+:root {
+    --very-dark-blue: hsl(229, 57%, 11%);
+    --dark-blue: hsl(228, 56%, 26%);
+    --pale-blue: hsl(243, 100%, 93%);
+    --grayish-blue: hsl(229, 7%, 55%);
+    --font-raleway: 'Raleway', sans-serif;
+    --font-size: 62.5%;
+}
+
+* {}
+
+html {}
+
+body {
+    font-size: 1.4rem;
+}
